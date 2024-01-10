@@ -1,5 +1,7 @@
 # STAR Protocols
 
-The templates, files, and various resources utilized in "Hybrid Structure Light 3D Scanning and Modeling for Postmortem Brain in Neuroanatomical Applications" paper submitted to STAR Protocols are included in this file. 
+This repository contains the templates, files, and various resources utilized in "Hybrid Structured-light Three-Dimensional Scanning and Modeling of Human Postmortem Brain for Neuroanatomy Practice, Research, and Education" paper submitted to STAR Protocols.
 
-*finish writing description of all the files
+The brain box templates and other files necessary for the three-dimensional matrix printing portion of the STAR Protocols submission can be downloaded and imported into the IdeaMaker application.
+
+*** Any copyrights or disclosures to add before making repository public?? ***
