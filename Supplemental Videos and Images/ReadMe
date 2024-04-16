@@ -1,4 +1,6 @@
 The images and videos included in this file are intended to supplement the instructions in the STAR Protocols paper. 
 
 For clarification, the "extrudedhumanbrainmodel.stl" is an example of an extruded file but it is not necessary to use this file when applying the protocol. 
-The "3dprintingtemplateguide" video is a tutorial of the workflow of the matrix printing process but it is not necessary to follow this example strictly.
+The "humanbrain3Dmodel" is an example of a hemisected human brain model with the cerebellum and brain stem attached.
+
+The "3Dprintingtemplatetutorial" video is a tutorial of the workflow of the matrix printing process but it is not necessary to follow this example strictly.
